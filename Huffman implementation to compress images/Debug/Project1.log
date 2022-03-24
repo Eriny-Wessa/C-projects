@@ -1,0 +1,4 @@
+﻿  phase 2 versioin 1 .cpp
+d:\work\semester 3\data structure\huffman\phase 2\project1\phase 2 versioin 1 .cpp(307): warning C4101: 'k': unreferenced local variable
+d:\work\semester 3\data structure\huffman\phase 2\project1\phase 2 versioin 1 .cpp(513): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> D:\Work\semester 3\Data structure\huffman\phase 2\Project1\Debug\Project1.exe

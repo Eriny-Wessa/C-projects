@@ -1,0 +1,10 @@
+﻿  ver0.cpp
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(94): warning C4101: 'k': unreferenced local variable
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(94): warning C4101: 'j': unreferenced local variable
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(94): warning C4101: 'l': unreferenced local variable
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(94): warning C4101: 'i': unreferenced local variable
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(855): warning C4101: 'r': unreferenced local variable
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(903): warning C4101: 'c': unreferenced local variable
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(1230): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\work\sem2\cs102\project\aa phase 2\phase 2 project\ver0.cpp(1342): warning C4101: 'end': unreferenced local variable
+  phase 2 project.vcxproj -> D:\Work\sem2\cs102\project\AA phase 2\phase 2 project\Debug\phase 2 project.exe
